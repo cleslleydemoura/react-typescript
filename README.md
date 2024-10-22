@@ -7,3 +7,4 @@
   <img src="https://skillicons.dev/icons?i=javascript,ts,react"/>
 </p>
 
+<p>Visualização do progresso do código no <a href="https://news-react-typescript-app.vercel.app/">Vercel</a></p>
