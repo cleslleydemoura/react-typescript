@@ -1,29 +1,17 @@
-"use client";
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
+export const App = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-           <code>Cleslley</code>
-        </p>
-        <div>
-        </div>
-        <a
+      <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/cleslleydemoura"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          cleslleydemoura on github
         </a>
       </header>
     </div>
   );
 }
-
-export default App;
