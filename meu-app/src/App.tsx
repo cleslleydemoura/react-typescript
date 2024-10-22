@@ -2,7 +2,7 @@
 export const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
+      <p className="paragrafo">Hello World!</p>
       <a
           className="App-link"
           href="https://github.com/cleslleydemoura"
@@ -11,7 +11,6 @@ export const App = () => {
         >
           cleslleydemoura on github
         </a>
-      </header>
     </div>
   );
 }
